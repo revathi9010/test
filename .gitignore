@@ -1,0 +1,19 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+.idea
+*.iml
+
+target/
+simpleclient_pushgateway/mockserver.log
+simpleclient_pushgateway/mockserver_request.log
+nb-configuration.xml
+dependency-reduced-pom.xml
+
+**/.classpath
+**.project
+**/.settings/
